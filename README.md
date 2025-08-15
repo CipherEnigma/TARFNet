@@ -30,17 +30,6 @@ This repository contains the implementation of **TARFNet**, a deep learning fram
 
 - pip install -r requirements.txt
 
-**Prepare the dataset**
-
-- python scripts/generate_clips.py
-
-**Train the model**
-
-- python scripts/train.py
-
-**Evaluate**
-
-- python scripts/evaluate.py
 
 ## Metrics Used
 - Accuracy
